@@ -32,5 +32,5 @@ I have been coding for many years. I used to make twitch bots but now I make pro
 * [Chess](https://top.gg/bot/716382796108660826) - New
 * [Space](https://top.gg/bot/716615705793134633) - New
 
-I've got to the stage where I feel comfortable saying that I know what im doing and so I have decided to share all my knowledge to everyone else. I hope you can find something useful out of my organized mess.
+I've got to the stage where I feel comfortable saying that I know what im doing and so I have decided to share all my knowledge with everyone else. I hope you can find something useful out of my organized mess.
 
