@@ -1,4 +1,4 @@
-# Double Keyboards
+# Second Keyboard Tutorial
 
 ## How to Setup
 
