@@ -9,5 +9,5 @@
 
 ## Please Note
 
-This is a slight tweaking of someone else's work. Please check out [https://gist.github.com/AileenLumina/510438b241c16a2960e9b0b014d9ed06](https://gist.github.com/AileenLumina/510438b241c16a2960e9b0b014d9ed06). All credits goes to them, I simply just tweaked it and use it in a lot of my bots. It is some very nice code!
+This is a slight tweaking of someone else's work. Please check out [https://gist.github.com/AileenLumina/510438b241c16a2960e9b0b014d9ed06](https://gist.github.com/AileenLumina/510438b241c16a2960e9b0b014d9ed06). All credits goes to them, I simply just tweaked it and use it in a lot of my bots. It is very nice code!
 

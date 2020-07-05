@@ -2,7 +2,7 @@
 
 ## DiscordBotHelp
 
-Little templates and helpful pieces of code i have made over the years. I've been making bots for a while now and I want to share some of the tips, tricks, and useful copy and pastes I've made. If you need help/support feel free to message me on my [discord server](https://discord.gg/A7aQfW6).
+Little templates and helpful pieces of code I have made over the years. I've been making bots for a while now and I want to share some of the tips, tricks, and useful copy and pastes I've made. If you need help/support feel free to message me on my [discord server](https://discord.gg/A7aQfW6).
 
 ## List of contents
 
@@ -32,5 +32,5 @@ I have been coding for many years. I used to make twitch bots but now I make pro
 * [Chess](https://top.gg/bot/716382796108660826) - New
 * [Space](https://top.gg/bot/716615705793134633) - New
 
-I've got to the stage where I feel comfortable saying that I know what im doing and so I have decided to share all my knowledge with everyone else. I hope you can find something useful out of my organized mess.
+I've got to the stage where I feel comfortable saying that I know what I'm doing and so I have decided to share all my knowledge with everyone else. I hope you can find something useful out of my organized mess.
 
