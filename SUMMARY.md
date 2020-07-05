@@ -1,16 +1,19 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Webhooks](webhooks.md)
-* [Error handling](error-handling.md)
-* [Cog Template](cog-template.md)
-* [Json Commands](json-commands.md)
-* [Pages](pages.md)
-* [Help command](help-command.md)
-* [Double Keyboards](2nd-keyboard-shortcuts.md)
-* [Tips and Tricks](tips-and-tricks.md)
-* [Join and Leave Messages](join-and-leave-messages.md)
-* [Changeable Prefixes](changeable-prefixes.md)
+
+## Discord.py
+
+* [Changeable Prefixes](discord.py/changeable-prefixes.md)
+* [Join and Leave Messages](discord.py/join-and-leave-messages.md)
+* [Double Keyboards](discord.py/2nd-keyboard-shortcuts.md)
+* [Help command](discord.py/help-command.md)
+* [Pages](discord.py/pages.md)
+* [Json Commands](discord.py/json-commands.md)
+* [Cog Template](discord.py/cog-template.md)
+* [Error handling](discord.py/error-handling.md)
+* [Webhooks](discord.py/webhooks.md)
+* [Tips and Tricks](discord.py/tips-and-tricks.md)
 
 ## Discord.js
 
