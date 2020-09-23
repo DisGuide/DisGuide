@@ -17,5 +17,7 @@
 
 ## Discord.js
 
-* [Untitled](discord.js/untitled.md)
+---
+
+* [Untitled](untitled.md)
 
